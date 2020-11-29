@@ -63,7 +63,7 @@ footer{
 
 @keyframes jump{
     0%{
-        bottom: 0%;
+        bottom: 5%;
         left: 20%;
     }
     50%{
@@ -71,7 +71,7 @@ footer{
         left: 50%;
     }
     100%{
-        bottom: 0%;
+        bottom: 5%;
         left: 80%;
     }
 }
