@@ -9,7 +9,7 @@ body{
 }
 
 .app{
-    height: 100vh;
+    height: 95vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -35,6 +35,11 @@ header p{
 height: 100px;
 width: 100px;
 flex: 1;
+}
+
+footer{
+    text-align: center;
+    margin-top: 10px;
 }
 
 .pad1{
